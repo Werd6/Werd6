@@ -1,7 +1,7 @@
 **HELLO** 
 My Name is Drew Swanberg.
 
-I Teach Debate to highschoolers and run an IT Consultantcy for small businesess and non-profits. 
+I Teach Debate to highschoolers and run an IT Consultancy for small businesess and non-profits. 
 
 Bespoke IT LLC specializes in custom automation and data collection tools. In todays digital world every business is a digital business. Automation offers cost efficency, and the ability to delegate less desirable jobs. As a business automation allows for efficency and profit optimization, but as a nonprofit the goal is doing more for the cause you support with fewer resources time and headache.
 
